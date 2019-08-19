@@ -6,11 +6,11 @@
 
 ### Way to use
 * Git  
-   * git clone https://github.com/yjfu95103/Crawler_picture.git
-   * python3 pic_download.py
+   ` git clone https://github.com/yjfu95103/Crawler_picture.git `
+   ` python3 pic_download.py `
    
 * Use
-   * Executing the .exe file(for Windows) 
+   ` Executing the .exe file (for Windows) `
 
 ##### reference
 * [Crawler picture from google] (http://dangerlover9403.pixnet.net/blog/post/207823890-%5Bpython%5D-day14---python-%E5%BE%9E%E7%B6%B2%E8%B7%AF%E6%8A%93%E5%9C%96%E7%89%87)
