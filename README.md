@@ -6,7 +6,7 @@
 
 ### Way to use
 * Git  
-   ` git clone https://github.com/yjfu95103/Crawler_picture.git `
+   ` git clone https://github.com/yjfu95103/Crawler_picture.git `  
    ` python3 pic_download.py `
    
 * Use
