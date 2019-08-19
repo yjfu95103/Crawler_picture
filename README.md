@@ -17,6 +17,3 @@
 [Windows setting](http://andrewpythonarduino.blogspot.com/2018/04/python-gui.html)  
 [Windows center](https://blog.csdn.net/ppdyhappy/article/details/78175274)  
 [Output to .exe(windows)](https://kknews.cc/zh-tw/other/2blvyeg.html)  
-
-
-   pyinstaller -F --icon=my.ico -w mycode.py
